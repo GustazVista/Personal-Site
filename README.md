@@ -1,12 +1,12 @@
 # Personal-Site
 
-This project is built by GustazVista. This is like 90% hands-on.
+GustazVista built this project. This is like 90% hands-on.
 
 
 
 # How to use this site
 
-I have deployed this site with Vercel so you can check it out.
+I deployed this site with Netlify, so you can check it out.
 
 # What I used specifically
 
