@@ -1,4 +1,4 @@
-<img width="465" height="208" alt="image" src="https://github.com/user-attachments/assets/45489db8-8fc8-4664-8464-dc0688c7350f" /># Personal Site
+# Personal Site
 
 Welcome to the project I have built, which is a personal portfolio website. 
 
