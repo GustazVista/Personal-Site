@@ -18,18 +18,18 @@ The website is one-page, so the links in the navigation bar lead to the correspo
 
 # How the site was made and what resources were used
 
--HTML5 for the foundation of the webpage (W3Schools)
--CSS designs of the page (W3Schools)
--[Video integration](https://media.istockphoto.com/id/2207816510/video/animated-abstract-technology-random-dots-on-black-background.mp4?s=mp4-640x640-is&k=20&c=56UwES16k1M2S5h3z7-3aCMhSa76lp0WQkXPhpdTMoo=) 
+- HTML5 for the foundation of the webpage (W3Schools)
+- CSS designs of the page (W3Schools)
+- [Video integration](https://media.istockphoto.com/id/2207816510/video/animated-abstract-technology-random-dots-on-black-background.mp4?s=mp4-640x640-is&k=20&c=56UwES16k1M2S5h3z7-3aCMhSa76lp0WQkXPhpdTMoo=) 
 
 # Downloading/ Customization of the site for public 
 
 Resources:
 
 If you want to recreate some of the parts in the website, feel free to check out the tutorials I have used: 
-[Footer](https://youtu.be/dlsjiphBris?si=bqJybScct4Gd8s6p)
-[Cards](https://youtu.be/qXRYMdvq_Dc?si=SkPRh1ItOAOrLqWs)
-[BackroundAnimation](https://youtu.be/5mGuCdlCcNM?si=sd-JRTGwODgflMHp)
+- [Footer](https://youtu.be/dlsjiphBris?si=bqJybScct4Gd8s6p)
+- [Cards](https://youtu.be/qXRYMdvq_Dc?si=SkPRh1ItOAOrLqWs)
+- [BackroundAnimation](https://youtu.be/5mGuCdlCcNM?si=sd-JRTGwODgflMHp)
 
 Downloading the project: 
 
