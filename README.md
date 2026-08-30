@@ -34,12 +34,13 @@ If you want to recreate some of the parts in the website, feel free to check out
 Downloading the project: 
 
 ``bash
-   git clone <repository-url>
-   cd joeboi-portfolio
+git clone https://github.com/YOUR-USERNAME/joeboi-portfolio.git
+cd joeboi-portfolio
 ``
+
 # Notes
 
-The site is currently very small on its own. So I tried to showcase the most important parts of myself. #Stardanceprogram
+The site is currently very small. I highlighted the most important parts of myself. #Stardanceprogram
 
 # Creator
 
