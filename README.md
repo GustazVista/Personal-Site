@@ -33,10 +33,10 @@ If you want to recreate some of the parts in the website, feel free to check out
 
 Downloading the project: 
 
-``bash
+```bash
 git clone https://github.com/YOUR-USERNAME/joeboi-portfolio.git
 cd joeboi-portfolio
-``
+```
 
 # Notes
 
