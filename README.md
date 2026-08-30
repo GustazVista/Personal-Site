@@ -10,11 +10,11 @@ The website is one-page, so the links in the navigation bar lead to the correspo
 
 # Features
 
--Animated/video background
--Responsive Navigation bar
--About Section
--Interest/Hobbies section
--Footer and Contacts section
+ - Animated/video background
+ - Responsive Navigation bar
+ - About Section
+ - Interest/Hobbies section
+ - Footer and Contacts section
 
 # How the site was made and what resources were used
 
